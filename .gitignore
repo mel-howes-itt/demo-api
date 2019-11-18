@@ -1,0 +1,5 @@
+# Ignore special config file
+ConnectionStrings.config
+Web.Debug.config
+Web.Release.config
+AppSettings.config
